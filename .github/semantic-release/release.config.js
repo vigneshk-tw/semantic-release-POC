@@ -1,5 +1,5 @@
 const config = {
-    branches: ['master', 'PETOSS-588-Open-API-pipeline'],
+    branches: ['main'],
     Plugins: [
         '@semantic-release/commit-analyzer',
         '@semantic-release/release-notes-generator',
